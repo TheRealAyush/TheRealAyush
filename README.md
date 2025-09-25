@@ -11,4 +11,4 @@ I like building games, tools, and systems that make learning and problem-solving
 - **Languages:** Java, Python, MATLAB, R, C/C++, Arduino  
 - **Topics:** Data analysis, embedded systems, algorithms, simulation  
 
-📫 Reach me at: `your.email@domain.com`
+📫 Reach me at: `reachayushsingh@gmail.com`
