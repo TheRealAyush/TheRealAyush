@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Ayush 👋
 
-<!--
-**TheRealAyush/TheRealAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science & Computer Engineering student at Northeastern University.  
+I like building games, tools, and systems that make learning and problem-solving fun.
 
-Here are some ideas to get you started:
+### Featured Projects
+- 🎮 [Minesweeper](https://github.com/TheRealAyush/Minesweeper) — Classic logic game in Java with GUI, multiple difficulties, and first-click safety.
+- 🐟 [Feeding Frenzy Game](https://github.com/TheRealAyush/Feeding-Frenzy-Game) — Arcade-style fish-eating game with growth mechanics, inertia, and collision rules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Languages:** Java, Python, MATLAB, R, C/C++, Arduino  
+- **Topics:** Data analysis, embedded systems, algorithms, simulation  
+
+📫 Reach me at: `your.email@domain.com`
